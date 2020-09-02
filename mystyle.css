@@ -4,5 +4,9 @@ body {
 
 h1 {
   color: navy;
+  background-color: blue;
   margin-left: 20px;
+}
+p {
+  background-color: blue;
 }
