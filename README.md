@@ -11,3 +11,7 @@ just a test
 <p> I'm glad to join the kottans community. Happy studying. </p>
 
 [github.com/vovan-zt/kottans-frontend](https://github.com/vovan-zt/kottans-frontend)
+
+# Hi there! I'm Valeri.
+Here is my [repository](https://github.com/ValeriiZa/kottans-frontend).
+Good luck in studying! 
