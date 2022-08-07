@@ -14,4 +14,5 @@ just a test
 
 # Hi there! I'm Valeri.
 Here is my [repository](https://github.com/ValeriiZa/kottans-frontend).
+
 Good luck in studying! 
